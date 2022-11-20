@@ -1,5 +1,5 @@
 # 👋 Saiba mais sobre mim!
-Olá! Meu nome é Asafe Davi e tenho 14 anos e moro na Bahia. Atualmente estou estudando Java para tornar-se um desenvolvedor e trabalhar para servidores. Eu configurava servidores e queria dar um upgrade em mim. Meu foco no momento é estudar bastante e no futuro tornar-se desenvolvedor.
+Olá! Meu nome é Asafe Davi e tenho 14 anos e moro na Bahia. Atualmente estou estudando Java para tornar-se um desenvolvedor e trabalhar para servidores. Me interessei bastante na área de programação de plugins em Java e quero aprender. Sempre gostei de tecnologia, me identifico com ela desde novo. Meu foco agora é estudar bastante e adquirir bastante conhecimento.
 
 # 💼 Caso queria falar comigo!
 Caso queria entrar em contato comigo para parceria ou mais, me chame no Discord!
