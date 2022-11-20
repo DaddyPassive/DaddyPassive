@@ -4,7 +4,7 @@ Olá! Meu nome é Asafe e tenho 14 anos e moro na Bahia. Atualmente estou estuda
 # 💼 Caso queria falar comigo!
 Caso queria entrar em contato comigo para parceria ou mais, me chame no Discord!
 
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)ImPassive_#6556
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)      ImPassive_#6556
 
 <!---
 DaddyPassive/DaddyPassive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
