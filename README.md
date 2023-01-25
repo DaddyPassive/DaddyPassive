@@ -5,7 +5,7 @@ Opa! Meu nome é Asafe Davi, tenho 14 anos e moro no Brasil. Pretendo levar uma 
 Caso queria entrar em contato comigo para parceria ou mais, me chame no Discord!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/752995589918162995)
-[![Discord Presence](https://lanyard.cnrad.dev/api/994391058911871016)](https://discord.com/users/752995589918162995)
+[![Discord Presence](https://lanyard.cnrad.dev/api/752995589918162995)](https://discord.com/users/752995589918162995)
 
 
 <!---
